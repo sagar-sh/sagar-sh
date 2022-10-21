@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sagar Sharma</h1>
 <h3 align="center">Everything That killes me Makes me feel Alive!!!!</h3>
 
+<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/116094050/197186056-5158cad0-94be-4d64-8672-27803b788cec.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-sh&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-sh" /> </p>
 
 - 🌱 I’m currently learning **Python, Git, Github**
