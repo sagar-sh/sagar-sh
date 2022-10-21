@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/116094050/196937218-ac119609-3d55-4e32-8235-19dec297ea9b.png" alt="my banner">
 <h1 align="center">Hi 👋, I'm Sagar Sharma</h1>
-<h3 align="center">Everything That killes me Makes me feel Alive!!!!</h3>
+<h3 align="center">Everything That Killes Me Makes Me Feel Alive!!!</h3>
 
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/116094050/197186056-5158cad0-94be-4d64-8672-27803b788cec.gif">
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sagar.sharma@stud.th-deg.de**
 
-- ⚡ Fun fact **I'm Social and Funny and always Smiling<3**
+- ⚡ Fun fact **I'm Frank, Funny and always Smiling<3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/sagar-sharma-966073254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-sharma-966073254" height="30" width="40" /></a>
 <a href="https://instagram.com/subedi881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subedi881" height="30" width="40" /></a>
 
--💬 If you have any question/feeback, please do not hesitate to reach out to me!
+-💬 If you have any feedback's, please do not hesitate to reach out to me!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
